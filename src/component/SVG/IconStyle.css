@@ -1,0 +1,7 @@
+.SvgIcon {
+  fill: var(--icon-color);
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  padding-bottom: 0.5rem;
+}
